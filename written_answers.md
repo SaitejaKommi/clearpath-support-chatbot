@@ -83,3 +83,61 @@ I shipped with this limitation because the core RAG + routing + evaluator pipeli
 
 If I had more time, I would add a preprocessing layer with spelling correction or fuzzy keyword matching before retrieval. This would significantly improve robustness without changing the overall architecture.
 
+## AI Usage
+
+During development, I used LLM tools (ChatGPT and Claude) strictly for debugging assistance, API integration clarification, deployment troubleshooting, and environment configuration issues.
+
+The models were not used to generate the full project automatically. The system architecture (RAG pipeline, routing logic, evaluation layer, deployment structure) was designed and implemented by me. AI tools were used as development assistants similar to documentation lookup or StackOverflow.
+
+Below are the exact prompts I used during development:
+
+---
+
+### ChatGPT Prompts
+
+1. "my frontend showing what i am doing in localhost but when i am sending ques my backend terminal is not logging anything ?"
+
+2. "fix app.py and give complete code please"
+
+3. "AttributeError: 'Groq' object has no attribute 'messages'"
+
+4. "backend working now i want to check the checklist of which is mandatory checking my proj is working and working fine for all requirements"
+
+5. "working fine all now i am gonna deploy both frontend ad backend so give steps clearly"
+
+6. "does i commit this into github after change this name"
+
+7. "python app.py ModuleNotFoundError: No module named 'dotenv'"
+
+8. "No flask entrypoint found. Add an 'app' script in pyproject.toml or define an entrypoint"
+
+---
+
+### Claude Prompts
+
+1. "help me debug why my flask backend returns 500 but no logs are printed"
+
+2. "how to correctly extract response text and token usage from groq python sdk"
+
+3. "why is my vercel frontend trying to detect flask backend"
+
+4. "how to configure render to run backend/app.py instead of app.py"
+
+5. "how to handle CORS between localhost:8000 and localhost:5000"
+
+---
+
+### Nature of AI Assistance
+
+AI tools were used for:
+
+- Debugging runtime errors
+- Understanding Groq SDK differences
+- Fixing incorrect response extraction methods
+- Resolving CORS issues
+- Fixing deployment configuration (Render + Vercel)
+- Clarifying Python virtual environment issues
+
+All final implementation decisions, integration validation, and production deployment steps were manually verified and tested by me.
+
+No prompts were used to generate the entire project automatically.
