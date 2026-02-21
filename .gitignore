@@ -1,0 +1,24 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Node modules (if applicable)
+node_modules/
+
+backend/docs/
+backend/logs.jsonl
+backend/routing_logs.jsonl

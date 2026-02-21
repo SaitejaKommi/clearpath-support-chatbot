@@ -1,0 +1,12 @@
+{
+  "file": "20_Troubleshooting_Guide.pdf",
+  "total_pages": 1,
+  "chunks": [
+    {
+      "id": 1,
+      "text": "Troubleshooting Guide Troubleshooting Guide Login Issues Problem: Can't log in or forgot password Solution: Click 'Forgot Password' on login page. Check spam folder for reset email. If using SSO, contact your IT admin. Clear browser cache and cookies if issues persist. Slow Performance Problem: App is slow or laggy Solution: Check internet connection. Close unused browser tabs. Clear browser cache. Try incognito mode. For large projects (1000+ tasks), use filters to reduce load. Missing Tasks or Data Problem: Tasks disappeared or data is missing Solution: Check filters (click 'Clear filters'). Verify project selection. Check if tasks were archived. Contact support if data is truly missing - we have 30-day backups. Integration Not Working Problem: Slack/GitHub integration not syncing Solution: Disconnect and reconnect the integration. Check if authorization expired. Verify webhook URLs haven't changed. See integration-specific docs at docs.clearpath.io/integrations.",
+      "page": 1,
+      "word_count": 138
+    }
+  ]
+}

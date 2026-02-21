@@ -1,0 +1,12 @@
+{
+  "file": "06_ClearPath_User_Guide_v3.2.pdf",
+  "total_pages": 1,
+  "chunks": [
+    {
+      "id": 1,
+      "text": "ClearPath User Guide v3.2 Version: 3.2 | Released: October 2024 What is ClearPath? ClearPath is a modern project management platform designed for agile teams. Track tasks, manage sprints, collaborate with teammates, and ship faster. Core Features Task Management: Create, assign, and track tasks with customizable workflows Sprint Planning: Plan sprints, estimate story points, track velocity Team Collaboration: Comment on tasks, @mention teammates, share files Reporting: Burndown charts, velocity reports, cycle time analytics Integrations: Connect with Slack, GitHub, Jira, and 50+ other tools Creating Your First Project 1. Click 'New Project' from the dashboard 2. Choose a template or start from scratch 3. Invite team members 4. Create your first task and assign it 5. Set up your workflow states (To Do, In Progress, Done) Best Practices  Break down large tasks into smaller sub-tasks  Use labels and priorities to organize work  Set realistic due dates  Review and update tasks daily  Run retrospectives after each sprint",
+      "page": 1,
+      "word_count": 159
+    }
+  ]
+}

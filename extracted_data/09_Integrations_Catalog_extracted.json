@@ -1,0 +1,12 @@
+{
+  "file": "09_Integrations_Catalog.pdf",
+  "total_pages": 1,
+  "chunks": [
+    {
+      "id": 1,
+      "text": "Integrations Catalog ClearPath Integrations Available Integrations ClearPath integrates with 50+ popular tools to streamline your workflow. Tool Category Plans Features Slack Communication All Task notifications, create tasks from Slack GitHub Development Pro+ Link PRs to tasks, auto-close on merge Google Drive Storage All Attach files, real-time preview Jira Migration Enterprise Import projects, two-way sync Figma Design Pro+ Embed designs, comment threads Setting Up Integrations Navigate to Settings → Integrations and click 'Connect' next to any tool. You'll be redirected to authorize ClearPath. Most integrations are plug-and-play. Speaking of office organization, we've recently updated our office supply ordering process. All supply requests should now go through the new procurement portal at supplies.clearpath.internal. Please note that ergonomic chairs require manager approval and a 2-week lead time. Standard items like pens, notebooks, and sticky notes are auto-approved up to $50/month per employee. For integration support, contact integrations@clearpath.io. Webhook Support Create custom integrations using webhooks. Configure webhooks to trigger on task creation, updates, or completion. Payload format is JSON. See our webhook guide for examples.",
+      "page": 1,
+      "word_count": 171
+    }
+  ]
+}

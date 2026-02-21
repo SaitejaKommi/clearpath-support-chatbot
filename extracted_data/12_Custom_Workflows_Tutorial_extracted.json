@@ -1,0 +1,12 @@
+{
+  "file": "12_Custom_Workflows_Tutorial.pdf",
+  "total_pages": 1,
+  "chunks": [
+    {
+      "id": 1,
+      "text": "Custom Workflows Tutorial Custom Workflows Tutorial Why Custom Workflows? Every team works differently. Custom workflows let you define states that match your process. Examples: 'Code Review', 'QA Testing', 'Deployed to Staging'. Creating a Workflow 1. Navigate to Settings → Workflows 2. Click 'New Workflow' 3. Add states (drag to reorder) 4. Define allowed transitions 5. Assign the workflow to projects Example: Software Development Workflow States: Backlog → In Development → Code Review → QA Testing → Staging → Production Transition rules:  Tasks must pass Code Review before QA  Only QA team can move to Production  Require PR link before Code Review State Automation Trigger actions when tasks enter specific states:  Auto-assign to QA team when entering 'QA Testing'  Send Slack notification when deployed  Create checklist when task starts",
+      "page": 1,
+      "word_count": 134
+    }
+  ]
+}

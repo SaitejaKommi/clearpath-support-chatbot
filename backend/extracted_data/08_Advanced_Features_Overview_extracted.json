@@ -1,0 +1,12 @@
+{
+  "file": "08_Advanced_Features_Overview.pdf",
+  "total_pages": 1,
+  "chunks": [
+    {
+      "id": 1,
+      "text": "Advanced Features Overview Version: 2.8 | Last Updated: March 2023 Custom Workflows Create custom workflow states beyond the default To Do / In Progress / Done. Go to Settings → Workflows and add states like 'In Review', 'Blocked', or 'Deployed'. Define transition rules to enforce your process. Advanced Filtering Use filters to find exactly what you need. Combine multiple criteria: assignee, labels, due date, sprint. Save common filters for quick access. Syntax: 'assignee:me labels:bug sprint:current'. Timeline View (Coming Q2 2023) We're excited to announce Timeline view is coming in Q2 2023! This Gantt-style view will help you visualize project dependencies and deadlines. Stay tuned for the beta release. Bulk Actions Select multiple tasks to perform bulk operations: reassign, change labels, move to sprint, or update status. Shift-click to select a range or Cmd/Ctrl-click for individual selection. API Access Enterprise and Pro plans include API access. Generate an API key from Settings → API. Full REST API documentation available at docs.clearpath.io/api.",
+      "page": 1,
+      "word_count": 160
+    }
+  ]
+}

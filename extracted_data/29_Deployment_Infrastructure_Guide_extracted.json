@@ -1,0 +1,12 @@
+{
+  "file": "29_Deployment_Infrastructure_Guide.pdf",
+  "total_pages": 1,
+  "chunks": [
+    {
+      "id": 1,
+      "text": "Deployment & Infrastructure Guide Deployment & Infrastructure Guide Environments Development: Local Docker Compose setup Staging: AWS staging environment, mirrors production Production: Multi-AZ deployment across us-east-1 and eu-west-1 Deployment Process 1. Create PR and get code review approval 2. Merge to main branch 3. GitHub Actions runs tests and builds Docker image 4. Auto-deploy to staging 5. Run smoke tests on staging 6. Manual approval required for production deploy 7. Rolling deployment to production (10% → 50% → 100%) 8. Monitor error rates and rollback if needed Rollback Procedure If a deployment causes issues: 1. Alert in #incidents Slack channel 2. Run rollback command: kubectl rollout undo deployment/api 3. Verify health checks pass 4. Schedule post-mortem within 24 hours Monitoring & Alerts DataDog dashboards track: request rate, error rate, latency (p50/p95/p99), database performance. PagerDuty alerts for: API error rate >5%, database CPU >80%, any service health check failure.",
+      "page": 1,
+      "word_count": 147
+    }
+  ]
+}

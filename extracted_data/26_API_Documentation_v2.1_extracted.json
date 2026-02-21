@@ -1,0 +1,12 @@
+{
+  "file": "26_API_Documentation_v2.1.pdf",
+  "total_pages": 1,
+  "chunks": [
+    {
+      "id": 1,
+      "text": "API Documentation v2.1 API Documentation Version: 2.1 | Base URL: https://api.clearpath.io/v2 Authentication All API requests require authentication via Bearer token. Generate tokens in Settings → API. Include token in the Authorization header: Authorization: Bearer YOUR_API_TOKEN Core Endpoints GET /projects - List all projects POST /projects - Create a project GET /projects/:id/tasks - List tasks in a project POST /tasks - Create a task PATCH /tasks/:id - Update a task DELETE /tasks/:id - Delete a task Example: Create a Task POST /tasks Content-Type: application/json { \"title\": \"Fix login bug\", \"description\": \"Users cannot log in with SSO\", \"project_id\": \"proj_123\", \"assignee_id\": \"user_456\", \"priority\": \"high\", \"due_date\": \"2024-02-01\" } Rate Limits Pro: 1000 requests/hour | Enterprise: 5000 requests/hour Rate limit info in response headers: X-RateLimit-Limit, X-RateLimit-Remaining Webhooks Configure webhooks in Settings → Webhooks. Events: task.created, task.updated, task.deleted, project.created. Payload includes full object data. Retry logic: 3 attempts with exponential backoff.",
+      "page": 1,
+      "word_count": 145
+    }
+  ]
+}

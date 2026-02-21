@@ -1,0 +1,12 @@
+{
+  "file": "19_Support_SLA_Response_Times.pdf",
+  "total_pages": 1,
+  "chunks": [
+    {
+      "id": 1,
+      "text": "Support SLA & Response Times Support SLA & Response Times Support Channels  Email: support@clearpath.io  Chat: Available in-app (9 AM - 6 PM EST, Mon-Fri)  Help Center: help.clearpath.io  Community Forum: community.clearpath.io Response Time SLAs Priority Free Pro Enterprise Critical (service down) Best effort 4 hours 1 hour High (major feature broken) Best effort 8 hours 4 hours Medium (minor issue) 48 hours 24 hours 8 hours Low (question, request) 72 hours 48 hours 24 hours Enterprise Support Enterprise customers get 24/7 support via phone, email, and chat. Dedicated account manager. Quarterly business reviews. Custom onboarding and training.",
+      "page": 1,
+      "word_count": 100
+    }
+  ]
+}

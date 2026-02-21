@@ -1,0 +1,12 @@
+{
+  "file": "10_Mobile_App_Guide.pdf",
+  "total_pages": 1,
+  "chunks": [
+    {
+      "id": 1,
+      "text": "Mobile App Guide ClearPath Mobile iOS & Android Download Download ClearPath from the App Store (iOS 14+) or Google Play (Android 9+). Search for 'ClearPath Project Manager' or scan the QR code on clearpath.io/mobile. Features  View and update tasks on the go  Receive push notifications for mentions and assignments  Add comments and attachments  Scan documents using your camera  Offline mode: sync when back online Offline Mode The mobile app caches recent tasks and projects. You can view, edit, and create tasks offline. Changes sync automatically when you reconnect. Offline changes are marked with a sync icon. Notifications Customize notifications in Settings → Notifications. Choose which events trigger push notifications: task assignments, mentions, due date reminders, or sprint start/end.",
+      "page": 1,
+      "word_count": 123
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "file": "07_Getting_Started_Guide.pdf",
+  "total_pages": 1,
+  "chunks": [
+    {
+      "id": 1,
+      "text": "Getting Started with ClearPath Quick Start Guide Step 1: Create Your Account Visit clearpath.io/signup and enter your email. You'll receive a verification link. Click it to activate your account. Choose a strong password (12+ characters). Step 2: Set Up Your Workspace After logging in, create your workspace. This is where your team's projects live. Give it a name (e.g., 'Acme Corp Engineering'). You can create multiple workspaces if you work with different teams. Step 3: Invite Your Team Click 'Invite Team' and enter email addresses. Team members will receive an invitation. You can assign roles: Admin (full access), Member (create/edit tasks), or Viewer (read-only). Step 4: Create Your First Task Click the '+' button or press 'C' to create a task. Add a title, description, assignee, and due date. Tasks automatically appear in your team's task list and on the board view. Next Steps  Explore keyboard shortcuts (press '?' to see all)  Set up integrations with your existing tools  Customize your workflow states  Schedule your first sprint",
+      "page": 1,
+      "word_count": 171
+    }
+  ]
+}

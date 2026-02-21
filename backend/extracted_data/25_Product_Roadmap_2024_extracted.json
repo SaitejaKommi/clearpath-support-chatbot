@@ -1,0 +1,12 @@
+{
+  "file": "25_Product_Roadmap_2024.pdf",
+  "total_pages": 1,
+  "chunks": [
+    {
+      "id": 1,
+      "text": "Product Roadmap 2024 Product Roadmap 2024 Q1 2024 (Jan-Mar)  Advanced permissions system (granular role controls)  Time tracking integration  Custom dashboards  Mobile app offline mode improvements  Slack app v2 with interactive messages Q2 2024 (Apr-Jun)  Resource management and capacity planning  Portfolio view for executives  Advanced automation rules  Microsoft Teams integration  Enhanced API rate limits for Enterprise Q3 2024 (Jul-Sep)  AI-powered task suggestions and estimates  Global search improvements  Template marketplace  Multi-workspace support  Advanced export formats Q4 2024 (Oct-Dec)  Goals and OKR tracking  Real-time collaboration (Google Docs style)  Video messaging integration  Performance improvements for large projects  Year-end reporting features",
+      "page": 1,
+      "word_count": 116
+    }
+  ]
+}

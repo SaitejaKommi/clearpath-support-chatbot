@@ -1,0 +1,12 @@
+{
+  "file": "27_Webhook_Integration_Guide.pdf",
+  "total_pages": 2,
+  "chunks": [
+    {
+      "id": 1,
+      "text": "Webhook Integration Guide Webhook Integration Guide What are Webhooks? Webhooks let ClearPath notify your application when events occur. Instead of polling for changes, your app receives real-time HTTP POST requests. Setting Up a Webhook 1. Create an endpoint in your application (e.g., https://yourapp.com/webhooks/clearpath) 2. Go to Settings → Webhooks in ClearPath 3. Click 'New Webhook' 4. Enter your endpoint URL 5. Select events to subscribe to 6. Save and test Event Types  task.created  task.updated  task.deleted  task.completed  project.created  project.archived  comment.created Payload Example { \"event\": \"task.created\", \"timestamp\": \"2024-01-15T10:30:00Z\", \"data\": { \"id\": \"task_789\", \"title\": \"New feature request\", \"project_id\": \"proj_123\", \"assignee\": \"user_456\" } } Security Verify webhook signatures using the X-ClearPath-Signature header. Use HMAC SHA-256 with your webhook secret. Always validate signatures to prevent spoofing.",
+      "page": 1,
+      "word_count": 128
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "file": "13_Reporting_Analytics_Guide.pdf",
+  "total_pages": 1,
+  "chunks": [
+    {
+      "id": 1,
+      "text": "Reporting & Analytics Guide Reporting & Analytics Guide Available Reports Burndown Chart: Track sprint progress and predict completion Velocity Report: Measure team output over time Cycle Time: Average time from start to completion Task Distribution: See who's working on what Completion Rate: Percentage of tasks completed on time Creating Custom Reports Pro and Enterprise users can create custom reports: 1. Go to Reports → Custom 2. Choose metrics and dimensions 3. Apply filters 4. Save and schedule email delivery Exporting Data Export reports as CSV, Excel, or PDF. Exports include raw data and charts. API access allows programmatic data extraction for custom dashboards.",
+      "page": 1,
+      "word_count": 103
+    }
+  ]
+}

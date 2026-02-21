@@ -1,0 +1,12 @@
+{
+  "file": "17_FAQ_Common_Questions.pdf",
+  "total_pages": 1,
+  "chunks": [
+    {
+      "id": 1,
+      "text": "Frequently Asked Questions Frequently Asked Questions Q: How do I invite team members? A: Go to Settings → Team → Invite. Enter email addresses (comma-separated). They'll receive an invitation link. You can assign roles during invitation. Q: Can I use ClearPath offline? A: The mobile app supports offline mode. Desktop/web requires internet connection. Offline changes sync automatically when you reconnect. Q: What integrations are available? A: We integrate with 50+ tools including Slack, GitHub, Google Drive, Figma, and Jira. See our integrations page for the full list. Custom integrations via webhooks on Pro+ plans. Q: How do I export my data? A: Go to Settings → Data → Export. Choose CSV or JSON format. Exports include all tasks, comments, and attachments. Takes 5-10 minutes for large workspaces. Q: Is my data secure? A: Yes. We use AES-256 encryption at rest and TLS 1.3 in transit. SOC 2 Type II certified. Data centers in US and EU. Optional data residency for Enterprise. Q: Can I migrate from another tool? A: Yes! We support imports from Jira, Asana, Trello, and Monday.com. Go to Settings → Import. Enterprise customers get free migration assistance.",
+      "page": 1,
+      "word_count": 190
+    }
+  ]
+}

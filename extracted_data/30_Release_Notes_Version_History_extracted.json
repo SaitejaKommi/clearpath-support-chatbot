@@ -1,0 +1,12 @@
+{
+  "file": "30_Release_Notes_Version_History.pdf",
+  "total_pages": 2,
+  "chunks": [
+    {
+      "id": 1,
+      "text": "Release Notes - Version History Release Notes - Version History v3.2.0 - October 15, 2024 New Features:  Advanced filtering with saved filter presets  Bulk task editing  Custom field support (text, number, date, dropdown)  Improved mobile app performance Improvements:  Search is 3x faster  Reduced API response times by 40%  Better error messages Bug Fixes:  Fixed issue with task assignee notifications  Resolved GitHub integration sync delays v3.1.0 - August 1, 2024 New Features:  Timeline view with drag-and-drop (shipped ahead of schedule!)  Dependency tracking between tasks  Gantt chart export  Recurring tasks Improvements:  Redesigned task detail modal  Keyboard shortcuts now work in all views v3.0.0 - May 20, 2024 New Features:  Complete UI redesign  Customizable workflows  Advanced permissions system  Time tracking integration Breaking Changes:  API v1 deprecated (migrate to v2)  Old mobile apps no longer supported v2.8.0 - March 15, 2024 New Features:  Slack integration v2  Custom dashboards  Export to Excel/CSV Improvements:  Faster page loads  Better mobile responsiveness",
+      "page": 1,
+      "word_count": 180
+    }
+  ]
+}

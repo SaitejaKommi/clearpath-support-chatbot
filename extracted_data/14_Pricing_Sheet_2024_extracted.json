@@ -1,0 +1,18 @@
+{
+  "file": "14_Pricing_Sheet_2024.pdf",
+  "total_pages": 2,
+  "chunks": [
+    {
+      "id": 1,
+      "text": "ClearPath Pricing 2024",
+      "page": 1,
+      "word_count": 3
+    },
+    {
+      "id": 2,
+      "text": "ClearPath Pricing Effective: January 1, 2024 | Currency: USD Choose Your Plan ClearPath offers flexible pricing to fit teams of all sizes. All plans include unlimited projects, 24/7 uptime monitoring, and regular feature updates. Start with our Free plan and upgrade as you grow. Feature Free Pro Enterprise Monthly Price $0 $49/month Custom pricing Annual Price $0 $470/year (save $118) Contact sales Users Included Up to 5 Up to 25 Unlimited Projects Unlimited Unlimited Unlimited Tasks per Project 100 Unlimited Unlimited Storage 500MB 50GB Custom (500GB+) File Upload Size 10MB 100MB 500MB Integrations 5 basic All 50+ All + Custom API Access ✗ ✓ ✓ Advanced Reports ✗ ✓ ✓ Custom Workflows ✗ Limited (5) Unlimited Priority Support ✗ Email/Chat 24/7 Phone/Email Onboarding Self-service Email support Dedicated specialist SLA Guarantee None None 99.9% uptime Billing Details Payment Methods: We accept all major credit cards (Visa, Mastercard, American Express, Discover), PayPal, and ACH transfers for annual plans. Enterprise customers can request invoice billing. Billing Cycle: Monthly plans are billed on the same day each month. Annual plans are billed upfront for the full year. All prices are in USD. Plan Changes:  Upgrades take effect immediately; you'll be charged the prorated difference  Downgrades take effect at the end of your current billing cycle  Switching from monthly to annual requires a new annual subscription Cancellation Policy: Cancel anytime with no penalties or fees. Your access continues until the end of your paid period. No refunds for partial months on monthly plans. Annual plans may be eligible for prorated refunds within 30 days (contact billing@clearpath.io). Add-On Services Enhance any plan with these optional add-ons: Add-On Price Description Extra Storage $10/month per 50GB Increase storage beyond plan limits Advanced Security Pack $15/month IP whitelisting, advanced audit logs, session management Premium Support $25/user/month 1-hour response time, dedicated support engineer Migration Service $500 one-time Full-service migration from Jira, Asana, or Monday.com Custom Training $200/hour Live training sessions for your team Extra Users (Pro only) $20/user/month Add users beyond the 25-user limit Free Trial Try ClearPath Pro free for 14 days - no credit card required. Experience all Pro features including advanced reports, API access, and priority support. Your trial starts immediately upon signup. At the end of your trial:  Choose to subscribe to Pro at $49/month  Downgrade to Free (keep your data, lose Pro features)  Contact sales for Enterprise options  Your data is never deleted - downgrade anytime Volume Discounts Need more than 25 users but not ready for Enterprise? We offer volume discounts on Pro:  26-50 users: 10% off ($44.10/user/month)  51-100 users: 15% off ($41.65/user/month)  100+ users: Contact sales for custom pricing Nonprofit and Education Discounts Registered nonprofits and educational institutions receive 50% off Pro and Enterprise plans. Contact sales@clearpath.io with proof of status (501(c)(3) letter or .edu email) to apply. Questions? Contact our sales team at sales@clearpath.io or schedule a demo at clearpath.io/demo. For billing questions, reach out to billing@clearpath.io.",
+      "page": 1,
+      "word_count": 495
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "file": "03_Remote_Work_Guidelines.pdf",
+  "total_pages": 1,
+  "chunks": [
+    {
+      "id": 1,
+      "text": "Remote Work Guidelines Effective: January 2024 | Applies to: All Remote Employees Eligibility All full-time employees are eligible for remote work after completing their probationary period (90 days). Contractors and part-time employees must work with their manager for approval. Equipment ClearPath provides a laptop, monitor, keyboard, and mouse. Additional equipment (standing desk, ergonomic chair) can be requested with manager approval up to $500. Network Security Remote employees must connect through the company VPN when accessing internal systems. VPN is required for accessing GitHub, internal databases, and admin tools. Use the Cisco AnyConnect client for all VPN connections. Communication Expectations Remote employees should be responsive on Slack during core hours (10 AM - 3 PM their timezone). Camera on for team meetings and 1-on-1s. Update your Slack status when stepping away for more than 30 minutes.",
+      "page": 1,
+      "word_count": 135
+    }
+  ]
+}

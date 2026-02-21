@@ -1,0 +1,12 @@
+{
+  "file": "11_Keyboard_Shortcuts.pdf",
+  "total_pages": 1,
+  "chunks": [
+    {
+      "id": 1,
+      "text": "Keyboard Shortcuts & Tips Keyboard Shortcuts Boost your productivity with these shortcuts. Press '?' in the app to see this list. Shortcut Action C Create new task / Focus search bar ? Show keyboard shortcuts G then P Go to projects G then T Go to tasks E Edit current task Cmd/Ctrl + K Quick command palette Cmd/Ctrl + Enter Save and close Esc Close modal/dialog J / K Navigate down/up in lists X Select task (bulk actions) Pro Tips  Chain commands: 'G then P then C' = Go to projects and create new  Use Command Palette (Cmd/Ctrl + K) to search all actions  Customize shortcuts in Settings → Keyboard",
+      "page": 1,
+      "word_count": 113
+    }
+  ]
+}
